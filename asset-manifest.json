@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/G-docs-deployment/static/css/main.2782649d.css",
+    "main.js": "/G-docs-deployment/static/js/main.5c968723.js",
+    "index.html": "/G-docs-deployment/index.html",
+    "main.2782649d.css.map": "/G-docs-deployment/static/css/main.2782649d.css.map",
+    "main.5c968723.js.map": "/G-docs-deployment/static/js/main.5c968723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2782649d.css",
+    "static/js/main.5c968723.js"
+  ]
+}
